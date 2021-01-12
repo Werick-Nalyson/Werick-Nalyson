@@ -1,5 +1,5 @@
 # Werick Nalyson
-Desenvolvedor web | designer
+Desenvolvedor web | Front-end
 
 <!-- <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> -->
 <!-- <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /> -->
